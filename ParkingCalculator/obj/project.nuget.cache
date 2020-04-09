@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jgdsee89cey6jijMgSDTfLj2Z67ebblYWod4P6/5PdA00bNojwux0VwLjvHnOvSIbxnn/EKs0fDjiAPZ/Xpsdw==",
+  "success": true,
+  "projectFilePath": "D:\\TallyIT\\ParkingCalculator\\ParkingCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dsuni\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.2.20160.3\\microsoft.extensions.dependencyinjection.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\dsuni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512"
+  ],
+  "logs": []
+}

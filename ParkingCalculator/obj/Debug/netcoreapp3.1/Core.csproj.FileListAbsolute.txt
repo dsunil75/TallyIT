@@ -1,0 +1,8 @@
+D:\CarParkCalculator\carpark-master (1)\carpark-master\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\CarParkCalculator\carpark-master (1)\carpark-master\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\CarParkCalculator\carpark-master (1)\carpark-master\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\CarParkCalculator\carpark-master (1)\carpark-master\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\CarParkCalculator\carpark-master (1)\carpark-master\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\CarParkCalculator\carpark-master (1)\carpark-master\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\CarParkCalculator\carpark-master (1)\carpark-master\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\CarParkCalculator\carpark-master (1)\carpark-master\Core\obj\Debug\netcoreapp3.1\Core.pdb

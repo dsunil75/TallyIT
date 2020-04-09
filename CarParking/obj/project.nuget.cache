@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPJwOs0Ka/6IEWqPM+aljkQF3DEh/IvYtaqfSmZ9akeSCmY+3QFKoASPKUj6XTynZ4lVJKb41DhXxE/b9mm3bg==",
+  "success": true,
+  "projectFilePath": "D:\\TallyIT\\CarParking\\CarParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dsuni\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dsuni\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.2.20160.3\\microsoft.extensions.dependencyinjection.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\dsuni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\dsuni\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\dsuni\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.1\\swashbuckle.aspnetcore.5.3.1.nupkg.sha512",
+    "C:\\Users\\dsuni\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.1\\swashbuckle.aspnetcore.swagger.5.3.1.nupkg.sha512",
+    "C:\\Users\\dsuni\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.1\\swashbuckle.aspnetcore.swaggergen.5.3.1.nupkg.sha512",
+    "C:\\Users\\dsuni\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.1\\swashbuckle.aspnetcore.swaggerui.5.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

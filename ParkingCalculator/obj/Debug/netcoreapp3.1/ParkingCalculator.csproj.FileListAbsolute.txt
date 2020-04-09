@@ -1,0 +1,17 @@
+D:\CarParking\ParkingCalculator\bin\Debug\netcoreapp3.1\ParkingCalculator.deps.json
+D:\CarParking\ParkingCalculator\bin\Debug\netcoreapp3.1\ParkingCalculator.dll
+D:\CarParking\ParkingCalculator\bin\Debug\netcoreapp3.1\ParkingCalculator.pdb
+D:\CarParking\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.AssemblyInfoInputs.cache
+D:\CarParking\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.AssemblyInfo.cs
+D:\CarParking\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.dll
+D:\CarParking\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.pdb
+D:\CarParking\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.csproj.CoreCompileInputs.cache
+D:\TallyIT\ParkingCalculator\bin\Debug\netcoreapp3.1\ParkingCalculator.deps.json
+D:\TallyIT\ParkingCalculator\bin\Debug\netcoreapp3.1\ParkingCalculator.dll
+D:\TallyIT\ParkingCalculator\bin\Debug\netcoreapp3.1\ParkingCalculator.pdb
+D:\TallyIT\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.csprojAssemblyReference.cache
+D:\TallyIT\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.csproj.CoreCompileInputs.cache
+D:\TallyIT\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.AssemblyInfoInputs.cache
+D:\TallyIT\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.AssemblyInfo.cs
+D:\TallyIT\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.dll
+D:\TallyIT\ParkingCalculator\obj\Debug\netcoreapp3.1\ParkingCalculator.pdb
